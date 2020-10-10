@@ -1,2 +1,2 @@
 ### List of contributors
-Manish Virgat
+Devan S
